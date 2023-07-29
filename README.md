@@ -63,7 +63,6 @@ https://github.com/Matteozara/Why_dont_you_speak/assets/74371691/b779d4db-b512-4
 <br>
 
 ## Getting Started
-<!--https://github.com/Matteozara/Why_dont_you_speak.git-->
 
 First of all clone the repo:
 ```sh
@@ -138,11 +137,6 @@ This repository can only be used for personal/research/non-commercial purposes. 
 
 ## Contacts
 TBA
-<!-- Matteo Zaramella - zaramella.2025806@studenti.uniroma1.it or matteozara98@gmail.com
-
-Irene Amerini - amerini@diag.uniroma1.it
-
-Paolo Russo - prusso@diag.uniroma1.it-->
   
 <br>
 <br>
